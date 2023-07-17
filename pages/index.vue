@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <HomeHero></HomeHero>
+    <HomeYouCan></HomeYouCan>
+    <HomeBetterWay></HomeBetterWay>
+    <HomeWorkTogather></HomeWorkTogather>
+    <HomeSlider></HomeSlider>
+    <HomeNeed></HomeNeed>
+  </div>
+</template>
